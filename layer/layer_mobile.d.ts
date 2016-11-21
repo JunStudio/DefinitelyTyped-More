@@ -1,6 +1,8 @@
-/**
- * Created by Jun on 2016-11-15.
- */
+// Type definitions for layer mobile
+// Project: https://github.com/sentsin/layer/tree/2.x/src/mobile
+// Definitions by: JunStudio
+// Definitions: https://github.com/JunStuido/DefinitelyTyped-More
+
 declare let layer: layer.layerStatic;
 
 declare namespace layer {
